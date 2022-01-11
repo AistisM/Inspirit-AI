@@ -1,2 +1,2 @@
 # Inspirit-AI
-Final project and presentation from the Inspirit AI high school intensive
+Final project from the Spring 2021 Inspirit AI high school intensive
