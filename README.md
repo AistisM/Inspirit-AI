@@ -1,2 +1,2 @@
 # Inspirit-AI
-Final Project and Presentation from the Inspirit AI High School Intensive
+Final project and presentation from the Inspirit AI high school intensive
